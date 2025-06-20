@@ -59,8 +59,8 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waleed2000x&show_icons=true&theme=radical" alt="Waleed's GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleed2000x&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=waleedahmed-x&show_icons=true&theme=radical" alt="Waleed's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waleedahmed-x&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🔥 Profile Views
