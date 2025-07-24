@@ -71,7 +71,7 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://localhoster.me/"><img src="https://img.shields.io/badge/Portfolio-My%20Website-blue?style=for-the-badge" alt="Portfolio"></a>
+  <a href="https://www.localhoster.me/"><img src="https://img.shields.io/badge/Portfolio-My%20Website-blue?style=for-the-badge" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/waleedahmedx"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/waleedahmed.x"><img src="https://img.shields.io/badge/Instagram-Follow-red?style=for-the-badge" alt="Instagram"></a>
 </p>
