@@ -19,7 +19,6 @@ I'm a passionate full-stack developer with a focus on building efficient, scalab
 - 🌱 Currently learning **Blockchain Development** and **Ethers.js**.
 - 🛠️ Building a multi-platform educational platform using **Next.js**, **React Native**, **MongoDB**, and **Express**.
 - 💬 Ask me about **JavaScript**, **React**, **Next.js**, **Node.js**, and **Mobile Development**.
-- 🎯 2024 Goals: Contribute to open-source projects and deepen my knowledge in blockchain and smart contracts.
 
 ## 🛠️ Tech Stack
 
